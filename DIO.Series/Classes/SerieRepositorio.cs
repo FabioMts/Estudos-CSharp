@@ -6,7 +6,7 @@ namespace DIO.Series
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{
-        //
+        // teste commit
         private List<Serie> listaSerie = new List<Serie>();
 		public void Atualiza(int id, Serie objeto)
 		{
