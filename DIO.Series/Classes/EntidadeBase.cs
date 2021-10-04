@@ -4,4 +4,6 @@ namespace DIO.Series
     {
         public int Id {get; protected set;}
     }
-}
+
+    
+}  

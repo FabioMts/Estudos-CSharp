@@ -10,7 +10,7 @@ namespace DIO.Series
         private List<Serie> listaSerie = new List<Serie>();
 		public void Atualiza(int id, Serie objeto)
 		{
-			listaSerie[id] = objeto;
+			listaSerie[id] = objeto; 
 		}
 
 		public void Exclui(int id)
