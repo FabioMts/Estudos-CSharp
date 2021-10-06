@@ -8,38 +8,23 @@ namespace AgenciaBancaria.Dominio
 {
     public class Cliente
     {
-        public Cliente(string nome, string cpf, string rg, string logradouro, string cep, string cidade, string estado)
+        public Cliente(string nome, string cpf, string rg, Endereco endereco)
         {
-            //  if(string.IsNullOrWhiteSpace(nome))
-            //  {
-            //    throw new Exception("Campo deve estar preenchido.");
-            //  }
-            //
 
-            Nome = ValidaStringVazia(nome);
-            CPF = ValidaStringVazia(cpf);
-            RG = ValidaStringVazia(rg);
-            Logradouro = ValidaStringVazia(logradouro);
-            CEP = ValidaStringVazia(cep);
-            Cidade = ValidaStringVazia(cidade);
-            Estado = ValidaStringVazia(estado);
+            Nome = nome.ValidaStringVazia();
+            CPF = cpf.ValidaStringVazia();
+            RG = rg.ValidaStringVazia();
+            Endereco = endereco ?? throw new Exception("Endereço deve ser informado.");
         }
 
-        private static string ValidaStringVazia(string texto)
-        {
-            return string.IsNullOrWhiteSpace(texto) ?
-                            throw new Exception("Campo deve estar preenchido.")
-                            : texto;
-        }
+       
 
         public string Nome { get; private set; }
         public string CPF { get; private set; }
         public string RG { get; private set; }
+        public Endereco Endereco { get; private set; }
 
-        public string Logradouro { get; private set; }
-        public string CEP { get; private set; }
-        public string Cidade { get; private set; }
-        public string Estado { get; private set; }
+
 
     }
 }
