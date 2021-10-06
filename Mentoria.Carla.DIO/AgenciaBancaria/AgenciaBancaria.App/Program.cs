@@ -13,13 +13,19 @@ namespace AgenciaBancaria.App
 
                 Cliente cliente = new Cliente("Fabio", "123456", "456789", endereco);
 
-                ContaBancaria conta = new ContaBancaria(cliente);
+                ContaCorrente conta = new ContaCorrente(cliente,100);
 
                 Console.WriteLine("Conta: "+ conta.Situacao + ": " + conta.NumeroConta + " - " + conta.DigitoVerificador);
 
-                conta.Abrir("abc123456789");
+                string senha = "abc123456789";
+                conta.Abrir(senha);
 
                 Console.WriteLine("Conta: " + conta.Situacao + ": " + conta.NumeroConta + " - " + conta.DigitoVerificador);
+
+                conta.Sacar(10, senha);
+
+                Console.WriteLine("Saldo: " + conta.Saldo);
+
 
             }
             catch (Exception ex)
