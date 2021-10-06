@@ -14,3 +14,6 @@ D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\obj\Debu
 D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\ref\AgenciaBancaria.App.dll
 D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.pdb
 D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.genruntimeconfig.cache
+D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+D:\EstudosCSharp\Mentoria.Carla.DIO\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.CopyComplete

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AgenciaBancaria.Dominio;
+using System;
 
 namespace AgenciaBancaria.App
 {
@@ -6,7 +7,18 @@ namespace AgenciaBancaria.App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                Cliente cliente = new Cliente("", "123456", "456789", "Rua teste",
+                "12345678", "Hortolândia", "SP");
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine(ex.Message);
+            }
+            
+                        
         }
     }
 }
