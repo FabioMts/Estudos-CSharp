@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CursoNelioCSharp/1.0.0": {
+        "runtime": {
+          "CursoNelioCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoNelioCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

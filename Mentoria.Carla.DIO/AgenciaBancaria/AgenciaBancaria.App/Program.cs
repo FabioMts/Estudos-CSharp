@@ -17,12 +17,12 @@ namespace AgenciaBancaria.App
 
                 Console.WriteLine("Conta: "+ conta.Situacao + ": " + conta.NumeroConta + " - " + conta.DigitoVerificador);
 
-                string senha = "abc123456789";
-                conta.Abrir(senha);
+                 
+                conta.Abrir("abc123456789");
 
                 Console.WriteLine("Conta: " + conta.Situacao + ": " + conta.NumeroConta + " - " + conta.DigitoVerificador);
 
-                conta.Sacar(10, senha);
+                conta.Sacar(10, "abc123456789");
 
                 Console.WriteLine("Saldo: " + conta.Saldo);
 
