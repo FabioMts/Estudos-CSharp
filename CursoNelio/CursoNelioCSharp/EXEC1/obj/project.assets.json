@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\ConsoleApp1\\PRODUCT.csproj",
-      "projectName": "PRODUCT",
-      "projectPath": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\ConsoleApp1\\PRODUCT.csproj",
+      "projectUniqueName": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\EXEC1\\EXEC1.csproj",
+      "projectName": "EXEC1",
+      "projectPath": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\EXEC1\\EXEC1.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\EstudosCSharp\\CursoNelio\\CursoNelioCSharp\\EXEC1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
