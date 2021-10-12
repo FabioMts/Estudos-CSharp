@@ -1,0 +1,15 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\ref\PraticandoFor.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\bin\Debug\net5.0\PraticandoFor.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\ref\PraticandoFor.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\CursoNelioCSharp\obj\Debug\net5.0\PraticandoFor.genruntimeconfig.cache
