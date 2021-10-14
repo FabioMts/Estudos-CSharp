@@ -9,13 +9,25 @@ namespace PRODUCT
 
 
 
-       public Produto(string nome, double preco, int quantidade) {
+        public Produto()
+        {
+            Quantidade = 10;
+        }
 
-            Nome = nome;
-            Preco = preco;
+       public Produto(string nome, double preco, int quantidade) : this(nome, preco){
+
             Quantidade = quantidade;
 
         }
+
+
+        public Produto(string nome, double preco) : this()
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 0;
+        }
+
 
 
         public double ValorTotalEmEstoque()

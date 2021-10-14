@@ -10,16 +10,18 @@ namespace PRODUCT
             
 
             Console.WriteLine("Entre com os dados do produto: ");
-            Console.WriteLine("Nome: ");
+            Console.Write("Nome: ");
             string nome = Console.ReadLine();
 
             Console.WriteLine("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Quantidade no estoque: ");
-            int quantidade = int.Parse(Console.ReadLine());
+           
+            Produto p = new Produto(nome, preco);
 
-            Produto p = new Produto(nome, preco, quantidade);
+            Produto p2 = new Produto();
+
+            Produto p3 = new Produto { Nome = "TV", Preco = 500.0, Quantidade = 20 };
 
 
             Console.WriteLine();
