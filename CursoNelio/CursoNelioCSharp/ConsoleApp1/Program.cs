@@ -7,21 +7,22 @@ namespace PRODUCT
     {
         static void Main(string[] args)
         {
-
-            Produto p = new Produto();
+            
 
             Console.WriteLine("Entre com os dados do produto: ");
             Console.WriteLine("Nome: ");
-            p.Nome = Console.ReadLine();
+            string nome = Console.ReadLine();
 
             Console.WriteLine("Preço: ");
-            p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Quantidade no estoque: ");
-            p.Quantidade = int.Parse(Console.ReadLine());
+            int quantidade = int.Parse(Console.ReadLine());
+
+            Produto p = new Produto(nome, preco, quantidade);
+
 
             Console.WriteLine();
-
             Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
 
@@ -39,7 +40,7 @@ namespace PRODUCT
             Console.WriteLine();
             Console.WriteLine("Dados atualizados: " + p);
 
-
+            
 
         }
     }
