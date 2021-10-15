@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ref\ExecBanco.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\bin\Debug\net5.0\ExecBanco.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.csproj.AssemblyReference.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ref\ExecBanco.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExecBanco\obj\Debug\net5.0\ExecBanco.genruntimeconfig.cache

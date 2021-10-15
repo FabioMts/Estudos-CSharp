@@ -3,16 +3,18 @@ namespace PRODUCT
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
-
+        public string _nome { get; set; }
+        public double Preco { get; private set; }
+        public int Quantidade { get; set; }
 
 
         public Produto()
         {
             Quantidade = 10;
         }
+
+
+
 
        public Produto(string nome, double preco, int quantidade) : this(nome, preco){
 
@@ -23,12 +25,20 @@ namespace PRODUCT
 
         public Produto(string nome, double preco) : this()
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
             Quantidade = 0;
         }
 
-
+        public string Nome
+        {
+            get { return _nome; }
+            set {
+                if (value!= null && value.Length>1) {
+                    _nome = value;
+                }  
+            }
+        }
 
         public double ValorTotalEmEstoque()
         {
@@ -48,11 +58,11 @@ namespace PRODUCT
 
         public override string ToString()
         {
-            return Nome 
-                +", $ " 
-                +Preco.ToString("F2", CultureInfo.InvariantCulture)
+            return _nome
+                + ", $ " 
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                +Quantidade
+                + Quantidade
                 + " unidades, Total: $ "
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
 
