@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\ref\Pensionato.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\bin\Debug\net5.0\Pensionato.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.csproj.AssemblyReference.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\ref\Pensionato.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Pensionato\obj\Debug\net5.0\Pensionato.genruntimeconfig.cache

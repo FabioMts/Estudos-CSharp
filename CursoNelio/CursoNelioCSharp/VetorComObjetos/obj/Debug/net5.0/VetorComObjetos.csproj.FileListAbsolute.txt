@@ -1,0 +1,15 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\ref\VetorComObjetos.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\bin\Debug\net5.0\VetorComObjetos.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\ref\VetorComObjetos.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\VetorComObjetos\obj\Debug\net5.0\VetorComObjetos.genruntimeconfig.cache
