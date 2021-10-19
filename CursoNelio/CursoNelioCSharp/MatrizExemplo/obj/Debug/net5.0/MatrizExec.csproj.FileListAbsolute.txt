@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\ref\MatrizExec.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\bin\Debug\net5.0\MatrizExec.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\ref\MatrizExec.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.genruntimeconfig.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\MatrizExemplo\obj\Debug\net5.0\MatrizExec.csproj.AssemblyReference.cache
