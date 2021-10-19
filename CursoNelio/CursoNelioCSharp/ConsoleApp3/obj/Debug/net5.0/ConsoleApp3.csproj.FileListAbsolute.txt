@@ -1,0 +1,15 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
