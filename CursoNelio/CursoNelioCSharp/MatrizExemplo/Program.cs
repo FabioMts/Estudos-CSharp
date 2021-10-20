@@ -43,8 +43,12 @@ namespace MatrizExec
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("Negative numbers: " + count);
+            Console.WriteLine("Negative numbers: " + count); 
+
+
+           
 
         }
+
     }
 }
