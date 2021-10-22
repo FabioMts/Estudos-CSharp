@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseNelio", "..\CourseNel
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio Enum e Composiçao", "Exercicio Enum e Composiçao", "{5134BC57-7DF7-41DD-96A5-CF6ABBF87903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course1", "..\Course1\Course1.csproj", "{FE022935-A97B-4ED5-80CF-C33F963FFB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course1", "..\Course1\Course1.csproj", "{FE022935-A97B-4ED5-80CF-C33F963FFB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course2", "..\Course2\Course2.csproj", "{22ED823D-0210-4421-81BB-8AAE38A2087E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -119,6 +121,10 @@ Global
 		{FE022935-A97B-4ED5-80CF-C33F963FFB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE022935-A97B-4ED5-80CF-C33F963FFB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE022935-A97B-4ED5-80CF-C33F963FFB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ED823D-0210-4421-81BB-8AAE38A2087E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ED823D-0210-4421-81BB-8AAE38A2087E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ED823D-0210-4421-81BB-8AAE38A2087E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ED823D-0210-4421-81BB-8AAE38A2087E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,6 +145,7 @@ Global
 		{478DEFE4-1015-48F7-BE74-2C9BA7DEC489} = {90B71479-703B-4D84-81B1-AA650BF7C4FC}
 		{EEBC14E0-61AC-401C-8DF4-B414857D823F} = {777F3867-0496-402D-AC65-E25DEEEC23E4}
 		{FE022935-A97B-4ED5-80CF-C33F963FFB4C} = {5134BC57-7DF7-41DD-96A5-CF6ABBF87903}
+		{22ED823D-0210-4421-81BB-8AAE38A2087E} = {5134BC57-7DF7-41DD-96A5-CF6ABBF87903}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D473C4F-DC56-48FC-83C0-47DD9CA57566}
