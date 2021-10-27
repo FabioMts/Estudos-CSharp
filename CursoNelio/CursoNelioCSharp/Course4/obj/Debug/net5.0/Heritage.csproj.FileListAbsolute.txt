@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\ref\Heritage.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\bin\Debug\net5.0\Heritage.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.csproj.AssemblyReference.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\ref\Heritage.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\Course4\obj\Debug\net5.0\Heritage.genruntimeconfig.cache

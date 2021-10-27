@@ -41,6 +41,7 @@ namespace ExeProposto
                     DateTime manufactureDate = DateTime.Parse(Console.ReadLine());
                     list.Add(new UsedProduct(name, price, manufactureDate));
                 }
+
             }
 
             Console.WriteLine();
