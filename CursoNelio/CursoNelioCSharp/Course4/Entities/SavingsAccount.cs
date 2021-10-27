@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heritage.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 
@@ -27,7 +27,8 @@ namespace Heritage.Entities
         public override void Withdraw(double amount)
         {
 
-            Balance -= amount;
+            base.Withdraw(amount);
+            Balance -= 2.0;
 
         }
     }

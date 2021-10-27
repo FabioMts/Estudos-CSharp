@@ -8,6 +8,7 @@ namespace Course4
         static void Main(string[] args)
         {
 
+            /*
             Account acc = new Account(1001, "Alex", 0.0);
             BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
 
@@ -39,7 +40,10 @@ namespace Course4
                 SavingsAccount acc5 = acc3 as SavingsAccount;
                 acc5.UpdateBalance();
                 Console.WriteLine("Update!");
-            }
+            } 
+            */
+
+
 
 
         }

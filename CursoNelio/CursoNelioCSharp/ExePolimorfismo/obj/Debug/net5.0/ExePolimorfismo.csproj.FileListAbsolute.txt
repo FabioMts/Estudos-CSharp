@@ -1,0 +1,15 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ref\ExePolimorfismo.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\bin\Debug\net5.0\ExePolimorfismo.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ref\ExePolimorfismo.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExePolimorfismo\obj\Debug\net5.0\ExePolimorfismo.genruntimeconfig.cache
