@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ref\ExeProposto.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\bin\Debug\net5.0\ExeProposto.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.csproj.AssemblyReference.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ref\ExeProposto.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\ExeProposto\obj\Debug\net5.0\ExeProposto.genruntimeconfig.cache
