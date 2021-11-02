@@ -1,0 +1,16 @@
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.exe
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.deps.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.runtimeconfig.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.runtimeconfig.dev.json
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\ref\EXECEXEMPLO.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\bin\Debug\net5.0\EXECEXEMPLO.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.AssemblyInfoInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.AssemblyInfo.cs
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.csproj.CoreCompileInputs.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\ref\EXECEXEMPLO.dll
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.pdb
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.genruntimeconfig.cache
+D:\EstudosCSharp\CursoNelio\CursoNelioCSharp\EXECEXEMPLO\obj\Debug\net5.0\EXECEXEMPLO.csproj.AssemblyReference.cache
